@@ -14,11 +14,6 @@ Therefore, smammography and FNA with visual interpretation correctness varies wi
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
 A few off the images can be found at http://www.cs.wisc.edu/~street/images/
 
-	The actual linear program used to obtain the separating plane
-	in the 3-dimensional space is that described in:
-	[K. P. Bennett and O. L. Mangasarian: "Robust Linear
-	Programming Discrimination of Two Linearly Inseparable Sets",
-	Optimization Methods and Software 1, 1992, 23-34].
 
 This database is also available through the UW CS ftp server:
 ftp ftp.cs.wisc.edu
