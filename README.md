@@ -1,4 +1,6 @@
 # Wisconsin Diagnostic Breast Cancer (WDBC)
+
+![Dataset](https://img.shields.io/badge/Dataset-UCI-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-xgboost-orange.svg)
  
 Task: Breast Cancer Diagnosis
 
